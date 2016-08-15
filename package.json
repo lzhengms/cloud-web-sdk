@@ -1,0 +1,26 @@
+{
+  "name": "cloud-atlas-web",
+  "version": "0.0.1",
+  "description": "sdk for cloud on web",
+  "keywords": [],
+  "homepage": "",
+  "author": {
+    "name": "lzhengms",
+    "email": "lzhengms@gmail.com"
+  },
+  "scripts": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": ""
+  },
+  "licenses": "MIT",
+  "main": "index.js",
+  "devDependencies": {
+    "nodeppt": "1.4.2"
+  }
+}
